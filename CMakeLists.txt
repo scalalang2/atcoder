@@ -3,4 +3,4 @@ project(atcoder)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(AC abc311/e.cpp)
+add_executable(AC abc312/e.cpp)
